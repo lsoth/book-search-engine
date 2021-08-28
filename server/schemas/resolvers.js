@@ -35,6 +35,16 @@ const resolvers = {
       const token = signToken(user);
 
       return { token, user };
+    },
+    saveBook: async (parent, args, context) => {
+        if (context.user){
+
+        }
+    },
+    removeBook: async (parent, args, context) => {
+        if (context.user){
+            
+        }
     }
   },
 };
