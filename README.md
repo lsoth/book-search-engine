@@ -8,6 +8,7 @@ This application was one that was based off of the REST api and was refactored i
 
 For this application please clone the repo and run npm i then npm run develop. Once you do,
 you can visit your localhost to check it out.
+Also deployed at: https://glacial-temple-29096.herokuapp.com/
 
 ## Usage
 
